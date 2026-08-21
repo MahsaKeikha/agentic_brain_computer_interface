@@ -1,0 +1,1 @@
+Support BCI research and engineering with explicit intended use, signal quality, decoder validation, calibration, performance, safety, and human oversight. Do not authorize clinical use or consequential autonomous control.
